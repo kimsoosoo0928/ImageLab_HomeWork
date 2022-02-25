@@ -1,0 +1,5 @@
+C:\Users\kimso\Desktop\workspace\homework\TestCRL\x64\Debug\Ijwhost.dll
+C:\Users\kimso\Desktop\workspace\homework\TestCRL\x64\Debug\TestCRL.deps.json
+C:\Users\kimso\Desktop\workspace\homework\TestCRL\x64\Debug\TestCRL.runtimeconfig.json
+C:\Users\kimso\Desktop\workspace\homework\TestCRL\TestCRL\x64\Debug\TestCRL.vcxproj.AssemblyReference.cache
+C:\Users\kimso\Desktop\workspace\homework\TestCRL\TestCRL\x64\Debug\TestCRL.genruntimeconfig.cache

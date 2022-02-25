@@ -1,0 +1,8 @@
+﻿  MyDll.cpp
+C:\Users\kimso\Desktop\workspace\homework\TestCRL\TestCRL\MyDll.cpp(10,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\kimso\Desktop\workspace\homework\TestCRL\TestCRL\MyDll.cpp(10,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) 인수 1('int' 형식)과(와) 충돌합니다.
+  .NETCoreApp,Version=v5.0.AssemblyAttributes.cpp
+  코드를 생성하고 있습니다...
+  MyDll.obj : MSIL 모듈이 발견되었습니다. MSIL에 증분 링크를 사용할 수 없습니다. 전체 링크를 수행하고 있습니다.
+     C:\Users\kimso\Desktop\workspace\homework\TestCRL\x64\Debug\TestCRL.lib 라이브러리 및 C:\Users\kimso\Desktop\workspace\homework\TestCRL\x64\Debug\TestCRL.exp 개체를 생성하고 있습니다.
+  TestCRL.vcxproj -> C:\Users\kimso\Desktop\workspace\homework\TestCRL\x64\Debug\TestCRL.dll
